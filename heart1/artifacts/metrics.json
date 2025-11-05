@@ -1,0 +1,13 @@
+{
+  "selected_model": "RandomForest",
+  "grid_best_params": {
+    "classifier__max_depth": 5,
+    "classifier__min_samples_split": 5,
+    "classifier__n_estimators": 200
+  },
+  "grid_best_cv_f1": 0.8592468285812647,
+  "test_accuracy": 0.8032786885245902,
+  "test_precision": 0.7441860465116279,
+  "test_recall": 0.9696969696969697,
+  "test_f1": 0.8421052631578947
+}
