@@ -33,3 +33,7 @@ Training may take a few minutes depending on your machine.
 streamlit run streamlit_app.py
 ```
 
+IMAGE SCREEN SHOT
+<img width="1288" height="798" alt="image" src="https://github.com/user-attachments/assets/f64a7a80-1690-4cef-85cb-1697e960f96d" />
+
+
